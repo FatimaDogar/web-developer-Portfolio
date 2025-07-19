@@ -19,7 +19,7 @@ This is a simple and responsive personal portfolio website built using HTML and 
 
 1. *Clone the repository*
    bash
-   git clone https://github.com/FatimaDogar/web-developer Portfolio.git
+   git clone https://github.com/FatimaDogar/web-developer-Portfolio.git
    cd web-developer Portfolio
    
 
